@@ -1,0 +1,27 @@
+Flags é
+--------------------------------------
+1000 - Running shoes
+0x200 - Starter lady leaves
+0x208 - Repel lady
+0x202 - Rocket grunts in Woodpine center
+0x20B - Rocket grunts leave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------
+Variables é
+---------------------------------------------
+0x4011 - No leave Pallet Town
+0x4012 - Starter lady gives CUBONE
+0x4013 - Guy in woodpine center, tutorial
