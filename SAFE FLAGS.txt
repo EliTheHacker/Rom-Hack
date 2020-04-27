@@ -1,2 +1,0 @@
-512-767 = Safe Flags
-16401-16639 = Safe Variables
