@@ -5,13 +5,17 @@ Flags é
 0x208 - Repel lady
 0x202 - Rocket grunts in Woodpine center
 0x20B - Rocket grunts leave
-
-
-
-
-
-
-
+0x20C - Dont use
+0x212 - Lance point that he was at
+0x213 - Lance recruited you / rocket grunts battling you
+0x214 - Rocket Grunt A post-lance
+0x215 - Rocket Grunt B post-lance
+0x216 - potion, route2
+0x217 - pokemart dude woodpine
+0x218 - town map
+0x219 - hide dragonbone gym leader in poke center
+0x21A - hide karen in dragonbone poke center
+0x21B - hide son in dragonbone poke center
 
 
 
