@@ -16,6 +16,10 @@ Flags é
 0x219 - hide dragonbone gym leader in poke center
 0x21A - hide karen in dragonbone poke center
 0x21B - hide son in dragonbone poke center
+0x21C - VS seeker guy
+0x21D - hides zaj before karen event
+0x21E - hides guy who tells you zaj is gone before karen event
+
 
 
 
