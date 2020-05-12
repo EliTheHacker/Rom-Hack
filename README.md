@@ -1,4 +1,3 @@
 # Rom-Hack
-My rom hack
-
-This is a rom hack that I'm working on. Simply download the latest version and a GBA emulator and you're good to go.
+This is a rom hack I'm working on. Download the latest version (v0.2) and open it with a GBA
+emulator. I upload a new version almost everyday, with minor changes. (version number doesnt change usually)
