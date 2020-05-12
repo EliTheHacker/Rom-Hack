@@ -19,9 +19,15 @@ Flags é
 0x21C - VS seeker guy
 0x21D - hides zaj before karen event
 0x21E - hides guy who tells you zaj is gone before karen event
-
-
-
+0x21F - karen event 2
+0x220 - logs whether you talked to zaj already
+0x221 - police guy that lets you in
+0x222 - hide police chief during event
+0x223 - hide police chief outside not during event
+0x224 - police chief talked to outside
+0x225 - hide grunts in dragonbone
+0x226 - hide second chief in dragonbone
+0x227 - hide first chief in dragonbone
 
 
 
@@ -31,5 +37,6 @@ Flags é
 Variables é
 ---------------------------------------------
 0x4011 - No leave Pallet Town
-0x4012 - Starter lady gives CUBONE
+0x4012 - Starter person gives starter
 0x4013 - Guy in woodpine center, tutorial
+0x4014 - rocket in dragonbone script
