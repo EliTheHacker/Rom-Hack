@@ -39,4 +39,5 @@ Variables é
 0x4011 - No leave Pallet Town
 0x4012 - Starter person gives starter
 0x4013 - Guy in woodpine center, tutorial
-0x4014 - rocket in dragonbone script
+0x4014 - nothing
+0x4015 - rocket grunts in dragonbone
